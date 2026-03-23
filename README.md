@@ -58,10 +58,14 @@ Running the script produces two plots:
 - Colored points: HDBSCAN clusters
 - Black arrows: high-frequency transitions
 
+<img width="661" height="507" alt="fig1_2D" src="https://github.com/user-attachments/assets/51afe03b-f132-4498-ab94-efa215815591" />
+
 **`p_tern` — Ternary Pattern-Duration Plot**
 - Three axes: Interval 1, Interval 2, Interval 3
 - Color encodes cycle duration
 - Black arrows: high-frequency transitions between clusters
+- 
+<img width="661" height="507" alt="fig2_Ternary" src="https://github.com/user-attachments/assets/4006554d-133c-4867-bc5d-7135b98239b2" />
 
 ## Contributing
 
